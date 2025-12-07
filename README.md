@@ -84,11 +84,11 @@ To get a local copy up and running, follow these simple steps.
 
 ## 📸 Screenshots
 
+## 📸 Screenshots
+
 | Desktop View | Mobile View |
 | :---: | :---: |
-| *Add Desktop Screenshot Here* | *Add Mobile Screenshot Here* |
-
----
+| ![Desktop View](desktop.jpg) | ![Mobile View](mobile.jpg) |
 
 ## 📬 Contact
 
