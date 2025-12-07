@@ -37,15 +37,17 @@ It features a clean, modern UI designed with **HTML5, CSS3, and Vanilla JavaScri
 
 ---
 
-## 🛠️ Technical Stack
+## 🎨 How to Use This Template
 
-| Category | Technologies |
-| :--- | :--- |
-| **Frontend** | ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) |
-| **Icons** | ![FontAwesome](https://img.shields.io/badge/-Font%20Awesome-339AF0?logo=font-awesome&logoColor=white) |
-| **Deployment** | ![GitHub Pages](https://img.shields.io/badge/-GitHub%20Pages-222222?logo=github&logoColor=white) |
+Want to use this portfolio design for yourself?
 
----
+1.  **Fork this repository** (Click the "Fork" button in the top right).
+2.  **Clone your forked repository** to your local machine.
+3.  **Update the content**:
+    * Open `index.html` and replace my information with yours.
+    * Replace `img1.jpeg` with your own profile photo.
+    * Update links in `index.html` (Socials, Email).
+4.  **Deploy**: Go to **Settings > Pages** to publish your own version!
 
 ## 📂 Portfolio Highlights
 
